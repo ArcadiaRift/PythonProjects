@@ -26,4 +26,4 @@ else: #if the user is not obese,overweight, or underweight, then they have to be
     print('Your weight is normal!')
 
 time.sleep(1)
-print('Remember, this is based on the BMI scale, which might not necessarily indicate your overall fitness levels. There might be other underlying reasons that determine your weight and fitness l.')leve
+print('Remember, this is based on the BMI scale, which might not necessarily indicate your overall fitness levels. There might be other underlying reasons that determine your weight and fitness l.')
