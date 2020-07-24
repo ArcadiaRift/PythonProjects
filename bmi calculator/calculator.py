@@ -1,10 +1,10 @@
 #! python3
-# The BMI calculator will take ur height and weight and determine whether you're underweight, normal, overweight, or obese
+# The BMI calculator will take ur height and weight and determine whether you're underweight, normal, overweight or obese
 
 import time #import the time module to use the .sleep method, which will allow me to delay print statements to make it easier to follow
 print('Welcome to the BMI Calculator!')
 time.sleep(1)
-print('This program will help determine whether you\'re underweight, normal, overweight, or obese')
+print('This program will help determine whether you\'re underweight, normal, overweight or obese')
 time.sleep(1)
 print('Let\'s begin!')
 time.sleep(1)
